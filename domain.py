@@ -147,7 +147,7 @@ def pretty_print(domain: str, rows: List[Tuple[str, str, str, str, str]]) -> Non
 
 
 def main() -> None:
-    domain   = "switchsoftware.io"
+    domain   = "andersenlab.com"  # change the domain name here
     contacts = fetch_emails(domain, titles=DEFAULT_TITLES)
     pretty_print(domain, contacts)
 
