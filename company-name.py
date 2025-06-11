@@ -180,7 +180,7 @@ from typing import List, Tuple, Optional
 # --------------------------------------------------------------------------- #
 # CONFIGURATION
 # --------------------------------------------------------------------------- #
-API_KEY ="u8iiaA60i2cdgXfNgq9_qg"
+API_KEY ="your_apollo_api_key_here"
 
 DEFAULT_TITLES = [
     "Agency Owner", "Business Growth", "Partner",

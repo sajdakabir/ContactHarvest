@@ -31,7 +31,7 @@ from typing import List, Tuple, Optional
 # --------------------------------------------------------------------------- #
 # CONFIGURATION
 # --------------------------------------------------------------------------- #
-API_KEY = "u8iiaA60i2cdgXfNgq9_qg"  # override if you like
+API_KEY = "your_apollo_api_key_here"  # override if you like
 
 DEFAULT_TITLES = [
     "Agency Owner",
