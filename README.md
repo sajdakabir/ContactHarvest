@@ -216,6 +216,7 @@ This project is licensed under the MIT License - see the [![License: MIT](https:
 
 ## 🔗 Related Projects
 
+- [Clutch Profile Scraper](https://github.com/sajdakabir/clutch-profile-scraper) - Scrape company profiles from Clutch.co
 - [Apollo.io API Documentation](https://apolloio.github.io/api-docs/)
 - [Requests Library](https://docs.python-requests.org/)
 - [Pandas Documentation](https://pandas.pydata.org/docs/)
